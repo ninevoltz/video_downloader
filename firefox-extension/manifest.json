@@ -3,7 +3,7 @@
     "name": "YouTube Video Downloader",
     "description": "Add a context menu and button to download a YouTube video to a local media server",
     "version": "1.0",
-    "homepage_url": "https://github.com/mdn/webextensions-examples/",
+    "homepage_url": "https://github.com/ninevoltz/video_downloader",
 
     "background": {
         "scripts": [
